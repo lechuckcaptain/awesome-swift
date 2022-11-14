@@ -1209,6 +1209,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Mussel](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
 * [Nimble](https://github.com/Quick/Nimble) - A matcher framework.
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
+* [SBTUITestTunnel](https://github.com/Subito-it/SBTUITestTunnel) - A UI testing library to interact with network requests, location and notification stubbing, define custom blocks of codes executed in the application target, fine grain fast-scrolling in table/collection/scroll views.
 * [PinpointKit](https://github.com/Lickability/PinpointKit) - Lets your testers and users send feedback with annotated screenshots and logs using a simple gesture.
 * [Quick](https://github.com/Quick/Quick) :penguin: - Quick is a behavior-driven development framework.
 * [Sizes](https://github.com/marcosgriselli/Sizes) - Test your app on different device and font sizes.
